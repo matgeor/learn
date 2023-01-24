@@ -9,9 +9,10 @@ seo:
 ---
 
 # A Basic Introduction To GNU Octave
+This is a hands on workshop, which is inteded to give a basic, informal, introduction to GNU Octave.
 
 ## Target Audience
-UG / PG students, research scholars and faculty from science stream.  
+UG / PG students, research scholars and faculty from science stream. 
 
 
 ## Prerequisites
