@@ -16,7 +16,7 @@ description: >-
 
 ---
 
- ## Starting 
+## Starting 
 
 1. Access / open terminal
 	1. press `Ctl` + `Alt` + `T`  
