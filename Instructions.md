@@ -5,7 +5,7 @@ description: >-
     Follow these carefully, to start with Octave.
 ---
 
-# About
+# Instructions
 {:.no_toc}
 
 ## Table of contents
