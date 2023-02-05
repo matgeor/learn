@@ -171,7 +171,7 @@ This is an experiment which is done, routinely by XII science students. The goal
 
 1. Make a *l-T* and *l-T^2* graph as well as estimate *g* using the data provided.
 
-2. *g* may be found using the formula $g=(4pi^2)l/T^2$	
+2. *g* may be found using the formula ```g=(4pi^2)l/T^2```	
 
 	|l (cm)|T (s)|
 	|------|-----|
