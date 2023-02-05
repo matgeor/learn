@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Instructions
+use_math: true
 description: >-
     Follow these carefully, to start with Octave.
 ---
