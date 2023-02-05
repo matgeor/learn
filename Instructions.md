@@ -171,7 +171,7 @@ This is an experiment which is done, routinely by XII science students. The goal
 
 1. Make a *l-T* and *l-T^2* graph as well as estimate *g* using the data provided.
 
-2. *g* may be found using the formula $g = (4pi^2)l/T^2$	
+2. *g* may be found using the formula $g=(4pi^2)l/T^2$	
 
 	|l (cm)|T (s)|
 	|------|-----|
@@ -186,9 +186,7 @@ This is an experiment which is done, routinely by XII science students. The goal
 	| 45   | 13.6|
 	| 50   | 14.2|	
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
+ 
 	
 ## References : 
 
